@@ -40,9 +40,10 @@
 
 
 ### Tools : 
-<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
-<img align="left" alt="Docker" width="26px" src="https://www.pikpng.com/pngl/b/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" />
+<img align="left"  width="40" height="40" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
+<img align="left" width="40" height="40" alt="GitHub" width="26px" src="https://iconape.com/wp-content/files/ia/122232/png/Cib-github__CoreUI_Icons_v1.0.0_.png" />
+<img align="left" width="40" height="40" alt="Docker" width="26px" src="https://www.pikpng.com/pngl/b/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" />
+<br/>
 
 <br />
 
